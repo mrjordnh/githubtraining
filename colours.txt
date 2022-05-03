@@ -6,3 +6,4 @@ Indigo
 Violet
 Jade
 Teal
+Salmon
