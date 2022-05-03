@@ -5,3 +5,4 @@ Yellow
 Indigo
 Violet
 Jade
+Teal
