@@ -1,7 +1,7 @@
-red
-green
-blue
-yellow
-indigo
-violet
-jade
+Red
+Green
+Blue
+Yellow
+Indigo
+Violet
+Jade
