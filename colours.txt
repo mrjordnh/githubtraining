@@ -4,3 +4,4 @@ blue
 yellow
 indigo
 violet
+jade
